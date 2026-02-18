@@ -1,6 +1,6 @@
 <h2>:pig_nose: | Bem vindo ao meu mundinho!</h2>
 
-<p> Sou a Thayane, desenvolvedora Full Stack autônoma, também do <img hight="25" width="80" alt="magazineluiza" src="https://seeklogo.com/images/L/luizalabs-logo-1656CE2B2D-seeklogo.com.png"> e professora de programação... Tenho 23 anos, casada, 1 menininha e 2 gatos 😺.... Sou pós-graduada em Arquitetura de Software!</p>
+<p> Sou a Thayane, desenvolvedora Full Stack autônoma, também do <img hight="25" width="80" alt="magazineluiza" src="[https://seeklogo.com/images/L/luizalabs-logo-1656CE2B2D-seeklogo.com.png](https://magazineluiza.inhire.app/luizalabs/vagas/6a018241-2bef-4d03-9803-20cd21c4b811/desenvolvedora-back-end-senior-squad-catalogacao)"> e professora de programação... Tenho 23 anos, casada, 1 menininha e 2 gatos 😺.... Sou pós-graduada em Arquitetura de Software e cursando Física!</p>
 
 <p align="center"><img hight="400" width="500" alt="GIF" align="center" src="https://i.pinimg.com/originals/66/48/bd/6648bd486f7268c8f8d18e3f68d2385f.gif"></p>
 
